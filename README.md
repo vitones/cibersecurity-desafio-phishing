@@ -16,8 +16,8 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.instagram.com
 
-### Resutados
+### Resultados
 
 #![Alt text](./passwd.png "Optional title")
-![Evidência2](./Vitor phishing 2 .png "Evidência 2").
-![Evidência](./vitor phishing.png "Evidência").
+![Evidência2](./"Vitor phishing 2 .png" "Evidência 2").
+![Evidência](./"vitor phishing.png" "Evidência").
